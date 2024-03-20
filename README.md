@@ -13,7 +13,7 @@
 
 ### - Мне 18 лет, и я полноценный разработчик Full Stack 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.makeagif.com/media/7-21-2021/n9WSiu.gif">
+<img hight="400" width="500" alt="GIF" src="https://i.makeagif.com/media/7-21-2021/n9WSiu.gif"/>
 
 ### - Обучение :
 - ✨ Структуры данных и алгоритмы
