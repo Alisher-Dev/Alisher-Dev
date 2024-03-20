@@ -13,7 +13,7 @@
 
 ### - Мне 18 лет, и я полноценный разработчик Full Stack 
 
-<img hight="400" width="500" alt="GIF" align="center" src="https://64.media.tumblr.com/e9e3afd75f2bd53944ca7c9bf4fe9029/46e066dce0286d79-fb/s540x810/56ed15045635f20bcb15a7e54b1b37afdd7cc831.gif">
+<img hight="200" width="400" alt="GIF" align="center" src="https://64.media.tumblr.com/e9e3afd75f2bd53944ca7c9bf4fe9029/46e066dce0286d79-fb/s540x810/56ed15045635f20bcb15a7e54b1b37afdd7cc831.gif">
 
 ### - Обучение :
 - ✨ Структуры данных и алгоритмы
