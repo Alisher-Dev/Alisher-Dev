@@ -13,7 +13,7 @@
 
 ### - Мне 18 лет, и я полноценный разработчик Full Stack 
 
-<img hight="200" width="400" alt="GIF" align="center" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif">
+<img hight="200" width="200" alt="GIF" align="center" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif">
 
 ### - Обучение :
 - ✨ Структуры данных и алгоритмы
