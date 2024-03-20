@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif](https://www.mkgifs.com/wp-content/uploads/2023/07/Cute-Akaza-GIF.gif)">
+<img hight="300" width="700" alt="GIF" align="center" src="https://www.mkgifs.com/wp-content/uploads/2023/07/Cute-Akaza-GIF.gif">
 </div>
 
 </br>
