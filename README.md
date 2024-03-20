@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# привет 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://www.mkgifs.com/wp-content/uploads/2023/07/Cute-Akaza-GIF.gif">
@@ -11,19 +11,17 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - Мне 18 лет, и я полноценный разработчик Full Stack 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.makeagif.com/media/7-21-2021/n9WSiu.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+### - Обучение :
+- ✨ Структуры данных и алгоритмы
+- ✨ Генеративно-состязательные сети
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+### - Увлечения :
+- ✨ Игровой наркоман
+- ✨ Просмотр аниме
 
 </br>
 </br>
@@ -31,7 +29,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Языки и инструменты 👨‍💻 🛠:
 </br>
 
 <p align="center">
@@ -56,31 +54,24 @@
 
 
 
-# Contact Me :
+# Свяжитесь со мной :
 
 <p>
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://78.media.tumblr.com/78b0914f56835ced195dcd147dd7648e/tumblr_pafkq1Q22M1qkz08qo1_540.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Если вы хотите связаться со мной по какому-либо вопросу, будь то какие-то сомнения, просто потусоваться и поговорить или поиграть вместе, просто напишите мне 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="https://t.me/ALISH_20_06">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+<a href="https://www.instagram.com/al1isher_06/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
+ <br />
+ <br />
 </a>
  </p>
  
@@ -93,12 +84,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 *************
