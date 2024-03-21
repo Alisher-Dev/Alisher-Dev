@@ -23,6 +23,20 @@
 <img src="https://www.codewars.com/users/Alisher1221/badges/large">
 
 
+### = GITHUB статистика
+
+<div align="center">
+<img style="width: 400px" src="https://streak-stats.demolab.com/?user=Alisher1221-ru&theme=dark" />
+</div>
+
+<div align="center">
+<img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=Alisher1221-ru&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=dark" />
+</div>
+
+<div align="center">
+<img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher1221-ru&locale=en&custom_title=Top%20Languages&theme=dark" />
+</div>
+
 <img hight="200" width="200" alt="GIF" align="center" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif">
 
 # Языки и инструменты 👨‍💻 :
