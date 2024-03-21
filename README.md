@@ -56,10 +56,10 @@
 
 Если вы хотите связаться со мной по какому-либо вопросу, будь то какие-то сомнения, просто потусоваться и поговорить или поиграть вместе, просто напишите мне 😉.
 
-<a href="https://t.me/ALISH_20_06" torgent="blank">
+<a href="https://t.me/ALISH_20_06" target="_blank">
   <img align="left" alt="Steam" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
 </a>
-<a href="https://www.instagram.com/al1isher_06/">
+<a href="https://www.instagram.com/al1isher_06/" target="_blank">
   <img align="left" alt="Steam" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
  <br />
  <br />
