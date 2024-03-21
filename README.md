@@ -19,6 +19,9 @@
 - ✨ слушать сузаку (особеннона phonk)
 - ✨ рисовать пиксельную графику
 
+### - CODEWARS :
+<img src="https://www.codewars.com/users/Alisher1221/badges/large">
+
 <img hight="200" width="200" alt="GIF" align="center" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif">
 
 # Языки и инструменты 👨‍💻 :
