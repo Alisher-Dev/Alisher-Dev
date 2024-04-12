@@ -1,7 +1,7 @@
 # привет 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://www.mkgifs.com/wp-content/uploads/2023/07/Cute-Akaza-GIF.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 </div>
 
 </br>
@@ -19,21 +19,17 @@
 - ✨ слушать музаку 
 - ✨ рисовать пиксельную графику
   
-### - CODEWARS :
-<img src="https://www.codewars.com/users/Alisher1221/badges/large">
-
-
 ### = GITHUB статистика
 
-<div align="start">
+<div align="center">
 <img style="width: 400px" src="https://streak-stats.demolab.com/?user=Alisher1221-ru&theme=dark" />
 </div>
 
-<div align="start">
+<div align="center">
 <img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=Alisher1221-ru&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=dark" />
 </div>
 
-<div align="start">
+<div align="center">
 <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher1221-ru&locale=en&custom_title=Top%20Languages&theme=dark" />
 </div>
 
@@ -149,12 +145,12 @@
 Если вы хотите связаться со мной по какому-либо вопросу, будь то какие-то сомнения, просто потусоваться и поговорить или поиграть вместе, просто напишите мне 😉.
 
 <a href="https://t.me/ALISH_20_06" target="_blank">
-  <img align="left" alt="Steam" width="80" hight="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
+  <img align="left" alt="Steam" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
 </a>
 <a href="https://www.instagram.com/al1isher_06/" target="_blank">
-  <img align="left" alt="Steam" width="80" hight="80" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
+  <img align="left" alt="Steam" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
 </a>
-<img hight="100" width="100" alt="GIF" align="center" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif">
+<img hight="80" width="80" alt="GIF" align="center" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif">
  <br />
  <br />
  <br />
