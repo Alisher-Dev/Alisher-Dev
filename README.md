@@ -1,7 +1,7 @@
 # привет 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://cdnb.artstation.com/p/assets/images/images/064/767/201/original/ash-emritte-pcscreen6.gif?1688686432">
+<img hight="300" width="700" alt="GIF" align="center" src="https://cdnb.artstation.com/p/assets/images/images/064/767/201/original/ash-emritte-pcscreen6.gif?1688686432" />
 </div>
 
 </br>
