@@ -22,6 +22,11 @@
 <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher-Dev&locale=en&custom_title=Top%20Languages&theme=dark" />
 </div>
 
+# Codewars ⚙️
+
+<div align="center">
+  <img style="width: 400px" src="https://www.codewars.com/users/Alisher-Dev/badges/large" alt="Codewars Badge">
+</div>
 
 # Языки и инструменты 👨‍💻 :
 </br>
