@@ -19,10 +19,6 @@
 </div>
 
 <div align="center">
-<img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=Alisher1221-ru&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=dark" />
-</div>
-
-<div align="center">
 <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher1221-ru&locale=en&custom_title=Top%20Languages&theme=dark" />
 </div>
 
