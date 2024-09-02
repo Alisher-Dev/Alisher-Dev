@@ -133,9 +133,9 @@
 <p>
  </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://78.media.tumblr.com/78b0914f56835ced195dcd147dd7648e/tumblr_pafkq1Q22M1qkz08qo1_540.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
-Если вы хотите связаться со мной по какому-либо вопросу, будь то какие-то сомнения, просто потусоваться и поговорить или поиграть вместе, просто напишите мне 😉.
+<p>Если вы хотите связаться со мной по какому-либо вопросу, будь то какие-то сомнения, просто потусоваться и поговорить или поиграть вместе, просто напишите мне 😉.</p>
 
 <a href="https://t.me/ALISH_20_06" target="_blank">
   <img align="left" alt="Steam" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
@@ -143,7 +143,7 @@
 <a href="https://www.instagram.com/al1isher_06/" target="_blank">
   <img align="left" alt="Steam" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
 </a>
-<img hight="80" width="80" alt="GIF" align="center" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+<img hight="80" width="80" alt="GIF" align="center" src="https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif">
  <br />
  <br />
  <br />
