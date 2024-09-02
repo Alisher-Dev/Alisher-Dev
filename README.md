@@ -143,7 +143,7 @@
 <a href="https://www.instagram.com/al1isher_06/" target="_blank">
   <img align="left" alt="Steam" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
 </a>
-<img hight="100" width="100" alt="GIF" align="center" src="https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif">
+<img hight="100" width="100" alt="GIF" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9ZxAccaSrDiXMz9g3tovqkww-G4O7YHQ3w&s">
  <br />
  <br />
  <br />
