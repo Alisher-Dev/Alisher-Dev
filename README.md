@@ -1,7 +1,7 @@
 # привет 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="[https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif](https://londoniacasbmp.s3.eu-west-2.amazonaws.com/IT-office_High_res.gif)">
 </div>
 
 </br>
