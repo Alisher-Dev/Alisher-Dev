@@ -133,7 +133,7 @@
 <p>
  </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+<img hight="320" width="400" align="right" alt="GIF" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
 <p>Если вы хотите связаться со мной по какому-либо вопросу, будь то какие-то сомнения, просто потусоваться и поговорить или поиграть вместе, просто напишите мне 😉.</p>
 
@@ -143,7 +143,7 @@
 <a href="https://www.instagram.com/al1isher_06/" target="_blank">
   <img align="left" alt="Steam" width="60" hight="60" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
 </a>
-<img hight="60" width="60" alt="GIF" align="center" src="https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif">
+<img hight="100" width="100" alt="GIF" align="center" src="https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif">
  <br />
  <br />
  <br />
