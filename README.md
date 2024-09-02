@@ -15,11 +15,11 @@
 ### = GITHUB статистика
 
 <div align="center">
-<img style="width: 400px" src="https://streak-stats.demolab.com/?user=Alisher1221-ru&theme=dark" />
+<img style="width: 400px" src="https://streak-stats.demolab.com/?user=Alisher-Dev&theme=dark" />
 </div>
 
 <div align="center">
-<img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher1221-ru&locale=en&custom_title=Top%20Languages&theme=dark" />
+<img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher-Dev&locale=en&custom_title=Top%20Languages&theme=dark" />
 </div>
 
 
