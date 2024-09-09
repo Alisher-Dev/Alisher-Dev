@@ -33,7 +33,7 @@
 
 <p align="center" >
 
-  <span style="display: flex gap: 5px">
+<span style="display: flex gap:10px ">
   <span>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="70px" height="70px" alt="HTML" />
   </span>
@@ -101,7 +101,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="70px" height="70px" alt="WebSockets" />
   </span>
   <span>
-  <img src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096" width="70px" height="70px" alt="HTTP" />
+  <img src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096" width="70px" height="70px" alt="shadcn" />
   </span>
   <span>
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="70px" height="70px" alt="REST API" />
