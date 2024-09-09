@@ -33,7 +33,7 @@
 
 <p align="center" >
 
-<div style="display: flex; gap:10px; flex-wrap: wrap;">
+<div style="display: flex; gap:10px; flex-wrap: wrap; justify-content: center;">
   <span>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="70px" height="70px" alt="HTML" />
   </span>
