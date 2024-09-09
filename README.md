@@ -63,7 +63,7 @@
   </span>
   <span>
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="70px" height="70px" alt="NextJs" />
-  </span></br>
+  </span>
   <span>
   <img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" width="70px" height="70px" alt="ChakraUI" />
   </span>
@@ -93,7 +93,7 @@
   </span>
   <span>
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="70px" height="70px" alt="MySQL" />
-  </span></br>
+  </span>
   <span>
   <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="70px" height="70px" alt="MongoDB" />
   </span>
