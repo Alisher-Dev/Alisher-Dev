@@ -33,7 +33,7 @@
 
 <p align="center" >
 
-<span style="display: flex, gap:10px ">
+<div style="display: flex; gap:10px; flex-wrap: wrap;">
   <span>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="70px" height="70px" alt="HTML" />
   </span>
@@ -124,6 +124,6 @@
   <span>
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="70px" height="70px"  alt="Swagger"/>
   </span>
-</span>
+</div>
 
 </p>
